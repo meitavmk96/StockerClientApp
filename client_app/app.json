@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "client_app",
+    "slug": "client_app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./Images/logo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./Images/logo.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./Images/logo.png",
+        "backgroundColor": "#FFFFFF"
+      }
+    },
+    "web": {
+      "favicon": "./Images/logo.png"
+    }
+  }
+}

@@ -1,2 +1,2 @@
-# StockerClientApp
- Final Project
+# Stocker-client
+ 
